@@ -1,6 +1,6 @@
 
 def test_function_formatting():
- print('Done')
+    print('Done')
 
 
 test_function_formatting()
